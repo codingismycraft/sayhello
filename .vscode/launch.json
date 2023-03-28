@@ -1,0 +1,17 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+
+        {
+        "name": "sayhello",
+        "type": "cppdbg",
+        "request": "launch",
+        "program": "${workspaceFolder}/debug/sayhello",
+        "args": [],
+        "stopAtEntry": false,
+        "cwd": "${fileDirname}",
+        "environment": [],
+        "externalConsole": false,
+        "MIMode": "gdb",
+    }]
+}
